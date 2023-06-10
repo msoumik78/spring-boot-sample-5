@@ -1,0 +1,22 @@
+{
+  "priority":1,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/CRM/spi/1/users/Soumik"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+
+      "name": "Soumik",
+      "age": "45",
+      "city": "Kolkata",
+      "state": "WB",
+      "profession": "software"
+
+    }
+  }
+}

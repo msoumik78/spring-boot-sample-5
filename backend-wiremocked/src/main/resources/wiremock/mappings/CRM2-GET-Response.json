@@ -1,0 +1,16 @@
+{
+  "priority":1,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/crm2"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "name": "Name2"
+    }
+  }
+}

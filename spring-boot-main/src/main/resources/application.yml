@@ -1,0 +1,9 @@
+
+
+spring.application.name: bank-customers-service
+
+server:
+  port: 8085
+
+
+

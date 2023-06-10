@@ -1,0 +1,13 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "DELETE",
+    "url": "/CRM/spi/1/users/Soumik"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": " text/xml; charset=UTF-8"
+    }
+  }
+}

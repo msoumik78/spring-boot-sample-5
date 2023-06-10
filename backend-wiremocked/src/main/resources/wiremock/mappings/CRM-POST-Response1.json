@@ -1,0 +1,13 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/CRM/spi/1/users"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": " text/xml; charset=UTF-8"
+    }
+  }
+}
