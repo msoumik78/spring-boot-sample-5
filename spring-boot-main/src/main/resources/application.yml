@@ -5,5 +5,8 @@ spring.application.name: bank-customers-service
 server:
   port: 8085
 
-
+jwk:
+  connect-timeout: 400
+  read-timeout: 1000
+  url: http://localhost:2345/user-jwk
 
